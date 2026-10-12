@@ -1,0 +1,11 @@
+# Repo público del cotizador: solo se suben estos archivos (ballena/web/publica_cotizador.py, ARCHIVOS).
+*
+!index.html
+!.nojekyll
+!.gitignore
+!README.md
+!robots.txt
+!vista.jpg
+!media/
+!media/linkedin/
+!media/linkedin/*.mp4
